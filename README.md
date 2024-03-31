@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicodonettti
+- 👋 Hi, I’m @Nicodonetti
 - 👀 I’m interested in astro 
 - 🌱 I’m currently learning to pilot my equatorial mount
 - 💞️ I’m looking to collaborate on a "push-to" project for equatorial mount with a rasperry and a GY-85
